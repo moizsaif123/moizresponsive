@@ -217,6 +217,13 @@ h1{
 
 	h1{font-size: 160%}
 
+	nav ul li a{
+				display: inline;
+		color: #FFFF00;
+		
+
+	}
+
 }
 
 @media only screen and (orientation: landscape) {
